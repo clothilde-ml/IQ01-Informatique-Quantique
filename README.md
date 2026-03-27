@@ -44,7 +44,7 @@ Pour plus de détail sur les implémentations par QUBO et par QAOA, je vous invi
 
 ---
 
-## Note sur les limites de l'implémentation
+## Note sur les limites de l'implémentation de Grover
 
 Le notebook `generate-distance-matrix.ipynb` donné en annexe permet de montrer les limites de l'algorithme de Grover dans le cas du problème du TSP, en ce qui concerne le nombre de qubits parallèles nécessaires pour implémenter la matrice de distance.
 
