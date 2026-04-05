@@ -54,16 +54,12 @@ Si vous avez connaissance d'une approche permettant de contourner cette contrain
 
 ## Dépendances et environnement
 
-Les notebooks sont écrits en **Python** et fournis au format `.ipynb`. 
-
-Leur exécution nécessite l’installation des bibliothèques :
+L'exécution des notebooks nécessite l’installation des bibliothèques suivante :
 
 - **Qiskit** (programmation quantique)
 - **Qiskit Aer** (simulateur quantique)
 - **NumPy** et **Matplotlib**
 - **NetworkX** (pour l'affichage d'un graphe - *optionnel*)
-
-Installation recommandée :
 
 ```bash
 pip install qiskit qiskit-aer numpy matplotlib networkx
