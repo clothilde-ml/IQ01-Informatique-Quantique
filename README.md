@@ -35,7 +35,7 @@ notebooks/                                   — notebooks personnels
 
 Les notebooks de ce répertoire ne constituent que ma partie du travail dans le projet de groupe. Ils couvrent brièvement les principaux frameworks quantiques disponibles en Python (**Qiskit, Cirq, PennyLane, D-Wave** et **QuTiP**) avant de se concentrer sur les fondamentaux et l'implémentation de Grover.
 
-Ils sont accessibles à toute personne ayant des bases en algèbre linéaire. Les concepts sous-jacents aux qubits et aux opérations quantiques y sont introduits et expliqués, de sorte qu'aucun prérequis en physique quantique n'est nécessaire.
+Ils sont accessibles à toute personne ayant des bases en algèbre linéaire. Les concepts sous-jacents aux qubits et aux opérations quantiques y sont introduits et expliqués, de sorte qu'aucun prérequis en physique quantique ne soit nécessaire.
 
 Pour plus de détail sur les implémentations par QUBO et par QAOA, je vous invite vivement à vous intéresser au travail de mes collaboratrices disponible sur leur GitHub :
 
